@@ -22,6 +22,8 @@
 * [The book of secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 * [128 CheatSheets](https://dev.to/devmount/a-cheatsheet-of-128-cheatsheets-for-developers-f4m)
 * [cheatography.com](https://cheatography.com/programming/)
+* [Must-Have Cheat Sheets for Web Designers](http://www.graphicmania.net/must-have-cheat-sheets-for-web-designers/)
+* [Big-O](https://www.bigocheatsheet.com/), [.io](https://bigocheatsheet.io/?dark-mode=true), [pdf](http://souravsengupta.com/cds2016/lectures/Complexity_Cheatsheet.pdf) Cheat Sheet
 
 ## Others
 
