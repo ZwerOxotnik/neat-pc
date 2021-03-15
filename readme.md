@@ -1,11 +1,11 @@
 # Neat PC (stuff to organize your PC and you) [WIP]
 
-Currently, this repository contains **simple scripts to install** some apps on **Windows** and **some notes, books, links etc for programmers**.
+Currently, this repository contains **simple scripts to install** some apps on **Windows** and **some books, links etc for programmers**.
 
-It's a similar idea with "awesome" repositories etc but with priority on "efficiency" *(perhaps, it's the word word isn't really suitable here)*.
+It's a similar idea with "awesome" repositories etc but with priority on "efficiency" *(perhaps, the word isn't so suitable here)*.
 
-* [Chocolatey scripts](/windows/chocolatey.md)
-* [For programmers](/for_programmers.md)
+* [Scripts for Chocolatey (installs apps on Windows)](/windows/chocolatey.md)
+* [Stuff for programmers](/for_programmers.md)
 
 ## License
 
@@ -13,4 +13,4 @@ It's a similar idea with "awesome" repositories etc but with priority on "effici
 
 ## Notes
 
-There are not much information and not so unique, currently.
+There are not much information and not so unique at this moment.

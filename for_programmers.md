@@ -1,4 +1,4 @@
-# Stuff for programming
+# Stuff for programmers
 
 * [Programming books](https://books.goalkicker.com/) ![][Freeware Icon]
 
